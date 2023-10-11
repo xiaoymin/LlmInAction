@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: llm-rag-001
+  elasticsearch:
+    uris: http://k8s.local.cn:30134
+  shell:
+    history:
+      name: test
+    theme:
+      name: aaa
+logging:
+  config: classpath:logback-local.xml
+# 自定义配置
+llm:
+  # 智谱AI开放密钥，开发者替换为自己的
+  zp-key:

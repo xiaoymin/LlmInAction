@@ -1,0 +1,12 @@
+文章来源：https://www.oschina.net/news/261118/chatgpts-mobile-app-revenue-4-58m
+市场情报公司 Appfigures 的最新分析数据显示，OpenAI 的官方 ChatGPT 应用程序安装数量和收入持续增长，9 月份创下了两项新纪录：全球 iOS 和 Android 应用程序的下载量达到 1560 万次，其中 Google Play 的下载量为 900 万，App Store 的下载量为 660 万。以及总收入接近 460 万美元，净收入 320 万美元；其中 300 万美元 自 iPhone 用户，其余来自 Google Play。
+
+ChatGPT 官方应用自 5 月起在 App Store 上架，7 月正式登录 Google Play 平台。自推出以来，ChatGPT 应用的总安装量已达到 5220 万次。该应用在 6、7、8 月份的总营收分别为 210 万美元、274 万美元以及 381 万美元。
+
+目前为止，美国仍是 ChatGPT 的最大市场，贡献了该应用程序生命周期收入的约 60%。
+
+
+
+但数据也显示，移动端 ChatGPT 应用的收入增长已经开始放缓。前几个月的收入增长率高达 30% (7 月为 31%，8 月为 39%)，但 9 月份已降至 20%，是迄今为止最低数值。TechCrunch 指出，收入增长放缓可能是 ChatGPT 接近饱和的第一个迹象，表明愿意为每月 19.99 美元的 ChatGPT+ 订阅服务付费的用户可能已经达到了上限。
+
+不过 ChatGPT 并不是收入最高的 AI 应用。Appfigures 数据显示，一款名为 Ask AI 的竞争对手由于大量的广告支出而获得了更多的收入；从 ChatGPT 移动版推出时的 5 月份的 648 万美元上升到了 8 月份的峰值 655 万美元。9 月份略有下降，降至 551 万美元，但仍高于 ChatGPT。其他竞争者如 Genie 和 AI Chat Smith 的增长幅度都不及 Ask AI。
