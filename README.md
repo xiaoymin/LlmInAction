@@ -15,3 +15,4 @@
 |[TorchV的RAG实践分享(二)：基于ElasticSearch的混合检索实战&原理分析](https://mp.weixin.qq.com/s/EBaGXFOnNHmF_rj_NLf_Ww)|`-`|`-`|
 |[TorchV的RAG实践分享(三):解析llama_index的数据存储结构和召回策略过程](https://www.xiaominfo.com/2024/01/14/torchv-rag-3/)|`-`|`-`|
 |[TorchV的RAG实践分享（四）——开放试用](https://www.luxiangdong.com/2024/01/25/lanuch-1/?utm_source=xiaoymin)|`-`|`-`|
+|[创业：大模型RAG系统三个月的开发心得和思考](https://www.xiaominfo.com/2024/04/01/torchv-summary-01/)|`-`|`-`|
