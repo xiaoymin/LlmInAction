@@ -5,14 +5,15 @@
 
 ## 文章列表
 
-|文章|视频|代码|
-|----|-----|----|
-|[开篇-续写AI技术新篇,融汇工程化实践](https://mp.weixin.qq.com/s/rFclAZiPOrTTtpt4gvY_tg)|`-`|`-`|
-|[实战0-1,Java开发者也能看懂的大模型应用开发实践](https://mp.weixin.qq.com/s/UeMSA35L5oCSLAk6RxSMgw)|[https://www.bilibili.com/video/BV1Uw411A7qD](https://www.bilibili.com/video/BV1Uw411A7qD/?spm_id_from=333.999.0.0&vd_source=ef34098d916a578698508a43063099ac)|[llm_chat_java_hello](llm_chat_java_hello)|
-|[用好大模型?这5种实用的Prompt框架你一定要看看!](https://www.xiaominfo.com/posts/use-prompt-framework/)|`-`|`-`|
-|[TorchV的RAG实践分享（一）——RAG的定位、技术选型和RAG技术文章目录](https://mp.weixin.qq.com/s/4D1XxrYcBS5UO6wazPWihg)|`-`|`-`|
-|[基于Apple MLX框架的M1设备上大模型微调实践](https://www.xiaominfo.com/2023/12/17/apple-mlx-lora-action/)|`-`|`-`|
-|[TorchV的RAG实践分享(二)：基于ElasticSearch的混合检索实战&原理分析](https://mp.weixin.qq.com/s/EBaGXFOnNHmF_rj_NLf_Ww)|`-`|`-`|
-|[TorchV的RAG实践分享(三):解析llama_index的数据存储结构和召回策略过程](https://www.xiaominfo.com/2024/01/14/torchv-rag-3/)|`-`|`-`|
-|[TorchV的RAG实践分享（四）——开放试用](https://www.luxiangdong.com/2024/01/25/lanuch-1/?utm_source=xiaoymin)|`-`|`-`|
-|[创业：大模型RAG系统三个月的开发心得和思考](https://www.xiaominfo.com/2024/04/01/torchv-summary-01/)|`-`|`-`|
+- [开篇-续写AI技术新篇,融汇工程化实践](https://mp.weixin.qq.com/s/rFclAZiPOrTTtpt4gvY_tg)
+- [实战0-1,Java开发者也能看懂的大模型应用开发实践](https://mp.weixin.qq.com/s/UeMSA35L5oCSLAk6RxSMgw)
+> 视频：[https://www.bilibili.com/video/BV1Uw411A7qD](https://www.bilibili.com/video/BV1Uw411A7qD/?spm_id_from=333.999.0.0&vd_source=ef34098d916a578698508a43063099ac)
+> 
+> 代码：[llm_chat_java_hello](llm_chat_java_hello)
+- [用好大模型?这5种实用的Prompt框架你一定要看看!](https://www.xiaominfo.com/posts/use-prompt-framework/)
+- [TorchV的RAG实践分享（一）——RAG的定位、技术选型和RAG技术文章目录](https://mp.weixin.qq.com/s/4D1XxrYcBS5UO6wazPWihg)
+- [基于Apple MLX框架的M1设备上大模型微调实践](https://www.xiaominfo.com/2023/12/17/apple-mlx-lora-action/)
+- [TorchV的RAG实践分享(二)：基于ElasticSearch的混合检索实战&原理分析](https://mp.weixin.qq.com/s/EBaGXFOnNHmF_rj_NLf_Ww)
+- [TorchV的RAG实践分享(三):解析llama_index的数据存储结构和召回策略过程](https://www.xiaominfo.com/2024/01/14/torchv-rag-3/)
+- [TorchV的RAG实践分享（四）——开放试用](https://www.luxiangdong.com/2024/01/25/lanuch-1/?utm_source=xiaoymin)
+- [创业：大模型RAG系统三个月的开发心得和思考](https://www.xiaominfo.com/2024/04/01/torchv-summary-01/)
