@@ -17,3 +17,5 @@
 - [TorchV的RAG实践分享(三):解析llama_index的数据存储结构和召回策略过程](https://www.xiaominfo.com/2024/01/14/torchv-rag-3/)
 - [TorchV的RAG实践分享（四）——开放试用](https://www.luxiangdong.com/2024/01/25/lanuch-1/?utm_source=xiaoymin)
 - [创业：大模型RAG系统三个月的开发心得和思考](https://www.xiaominfo.com/2024/04/01/torchv-summary-01/)
+- [我对《RAG/大模型/非结构化数据知识库类产品》技术架构的思考、杂谈](https://www.xiaominfo.com/2024/07/03/torchv-think/)
+- [RAG工程实践拦路虎之一：PDF格式解析杂谈](https://www.xiaominfo.com/2024/07/08/torchv-pdf-01/)
