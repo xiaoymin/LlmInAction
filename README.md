@@ -1,6 +1,8 @@
 # LlmInAction
 
-大模型LLM，RAG实战
+大模型LLM，RAG实战,公众号“八一菜刀”同步更新
+
+![](https://www.xiaominfo.com/images/website/mp/qrcode_mini.jpg)
 
 
 ## 文章列表
