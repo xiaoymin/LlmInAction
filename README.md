@@ -21,3 +21,5 @@
 - [创业：大模型RAG系统三个月的开发心得和思考](https://www.xiaominfo.com/2024/04/01/torchv-summary-01/)
 - [我对《RAG/大模型/非结构化数据知识库类产品》技术架构的思考、杂谈](https://www.xiaominfo.com/2024/07/03/torchv-think/)
 - [RAG工程实践拦路虎之一：PDF格式解析杂谈](https://www.xiaominfo.com/2024/07/08/torchv-pdf-01/)
+- [记录QWen2-72B-Instruct模型安装部署过程](https://mp.weixin.qq.com/s/7MzqwEXHKwZdnZ0Ud5Oejw)
+- [非结构化数据解析 &GenAI的应用探索和实践（文字稿）](https://mp.weixin.qq.com/s/1nV7XTGSQ6C9sW-122teWg)
