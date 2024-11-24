@@ -23,3 +23,4 @@
 - [RAG工程实践拦路虎之一：PDF格式解析杂谈](https://www.xiaominfo.com/2024/07/08/torchv-pdf-01/)
 - [记录QWen2-72B-Instruct模型安装部署过程](https://mp.weixin.qq.com/s/7MzqwEXHKwZdnZ0Ud5Oejw)
 - [非结构化数据解析 &GenAI的应用探索和实践（文字稿）](https://mp.weixin.qq.com/s/1nV7XTGSQ6C9sW-122teWg)
+- [AIGC时代的淘金者，TorchV这一年的心路历程](https://mp.weixin.qq.com/s/AwdEn8it4VDyz0JWEGYw9Q)
