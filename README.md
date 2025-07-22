@@ -27,3 +27,4 @@
 - [2024/11/20-AIGC时代的淘金者，TorchV这一年的心路历程](https://mp.weixin.qq.com/s/AwdEn8it4VDyz0JWEGYw9Q)
 - [2025/02/13-DeepSeek火爆现象背后企业可以得到什么实质提升？](https://mp.weixin.qq.com/s/DT1u027oGB6u0tsawnKmJQ)
 - [2025/07/17-Elasticsearch 不愿免费的秘密武器—RRF（TorchV 版）](https://mp.weixin.qq.com/s/gMWDaSPXSoPjJjWIrHwpMg)
+- [2025/07/22-企业AI知识库的文件解析痛点-Word格式解析优化（准确率95%）-100%开源](https://mp.weixin.qq.com/s/la7YTEiK86XSJLR9ep649g)
